@@ -10,7 +10,7 @@ With the Center for Digital Humanities, I'm researching how machine learning wil
 
 #### ⚡ The Energy Sector
 
-I've built multiple energy grid models with the Open Modeling Framework ([dpinney/omf](https://github.com/dpinney/omf)), an open-source project that—through partnerships with national labs and the Department of Energy—develops online tools for electric utilities. Partnered with the OMF, I studied how deep learning can be used to predict energy consumption, a suprisingly under-researched field. Increasingly accurate energy predictions can help utilities with peak shaving, a process where small mistakes can cost tens of thousands of dollars. [Read about my deep learning research](https://brownanalytics.com/energy_forecasting/).
+I've built multiple energy grid models with the Open Modeling Framework ([dpinney/omf](https://github.com/dpinney/omf)), an open-source project that—through partnerships with national labs and the Department of Energy—develops online tools for electric utilities. Partnered with the OMF, I also studied how deep learning can be used to predict energy consumption, a suprisingly under-researched field. Increasingly accurate energy predictions can help utilities with peak shaving, a process where small mistakes can cost tens of thousands of dollars. [Read about my deep learning research](https://brownanalytics.com/energy_forecasting/).
 
 
 #### 📈 Data Journalism
