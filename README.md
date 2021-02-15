@@ -14,6 +14,7 @@ I've built multiple energy grid models with the Open Modeling Framework ([dpinne
 
 
 #### 📈 Data Journalism
+- [kmcelwee/fortune-100-blm-report](https://kmcelwee.github.io/fortune-100-blm-report/site/): an analysis of the Fortune 100's response on Twitter to the BLM protests in the summer of 2020
 - [kmcelwee/WhoPaysWriters](https://github.com/kmcelwee/WhoPaysWriters): an analysis of the website [WhoPaysWriters](http://whopayswriters.com/#/results) ([read the article in the Columbia Journalism Review](https://www.cjr.org/business_of_news/where-to-pitch-data-who-pays-writers.php))
 - [kmcelwee/scrabble](https://github.com/kmcelwee/scrabble): an analysis of what Scrabble tile values make the game more fair ([read the article in Nautilus](http://nautil.us/issue/67/reboot/does-scrabble-need-to-be-fixed))
 - [Read more on my website...](https://www.brownanalytics.com/)
