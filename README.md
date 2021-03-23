@@ -1,4 +1,4 @@
-### Hello! My name's Kevin 👨🏻‍💻 🐢
+### Hello! My name's Kevin 👨🏻‍💻 
 
 I am optimistic about the possibilities of applied mathematics, particularly machine learning, to inform debate and serve the public good. I currently work as a programmer at the [Princeton University Library](https://github.com/pulibrary/) and [Center for Digital Humanities](https://github.com/CDH-Princeton/), helping professors and students develop their data-driven research projects. Before Princeton, I worked in the energy sector, building machine learning models that increase efficiency on the electrical grid.
 
