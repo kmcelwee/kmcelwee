@@ -10,14 +10,14 @@ With the Center for Digital Humanities, I'm researching how machine learning wil
 
 #### ⚡ The Energy Sector
 
-I've built multiple energy grid models with the Open Modeling Framework ([dpinney/omf](https://github.com/dpinney/omf)), an open-source project that—through partnerships with national labs and the Department of Energy—develops online tools for electric utilities. Partnered with the OMF, I also studied how deep learning can be used to predict energy consumption, a suprisingly under-researched field. Increasingly accurate energy predictions can help utilities with peak shaving, a process where small mistakes can cost tens of thousands of dollars. [Read about my deep learning research](https://www.brownanalytics.com/energy_forecasting/).
+I've built multiple energy grid models with the Open Modeling Framework ([dpinney/omf](https://github.com/dpinney/omf)), an open-source project that—through partnerships with national labs and the Department of Energy—develops online tools for electric utilities. Partnered with the OMF, I also studied how deep learning can be used to predict energy consumption, a suprisingly under-researched field. Increasingly accurate energy predictions can help utilities with peak shaving, a process where small mistakes can cost tens of thousands of dollars. [Read about my deep learning research](https://www.kmcelwee.com/load-forecasting/).
 
 #### 📈 Data Journalism
 
 - [kmcelwee/fortune-100-blm-report](https://kmcelwee.github.io/fortune-100-blm-report/site/): an analysis of the Fortune 100's response on Twitter to the BLM protests in the summer of 2020
 - [kmcelwee/WhoPaysWriters](https://github.com/kmcelwee/WhoPaysWriters): an analysis of the website [WhoPaysWriters](http://whopayswriters.com/#/results) ([read the article in the Columbia Journalism Review](https://www.cjr.org/business_of_news/where-to-pitch-data-who-pays-writers.php))
 - [kmcelwee/scrabble](https://github.com/kmcelwee/scrabble): an analysis of what Scrabble tile values make the game more fair ([read the article in Nautilus](http://nautil.us/issue/67/reboot/does-scrabble-need-to-be-fixed))
-- [Read more on my website...](https://www.brownanalytics.com/)
+- [Read more on my website...](https://www.kmcelwee.com/)
 
 #### 🤖 Twitter bots
 
