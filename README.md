@@ -4,10 +4,6 @@ I am optimistic about the possibilities of applied mathematics, particularly mac
 
 ### Check out my repos that explore...
 
-#### 🎨 Art & Machine Learning:
-
-With the Center for Digital Humanities, I'm researching how machine learning will challenge what we value in art and studying how automation can be used as a source of inspiration. Check out my first project, [kmcelwee/mondrianify](https://github.com/kmcelwee/mondrianify) that uses edge-detection to transform images into paintings by Piet Mondrian.
-
 #### ⚡ The Energy Sector
 
 I've built multiple energy grid models with the Open Modeling Framework ([dpinney/omf](https://github.com/dpinney/omf)), an open-source project that—through partnerships with national labs and the Department of Energy—develops online tools for electric utilities. Partnered with the OMF, I also studied how deep learning can be used to predict energy consumption, a suprisingly under-researched field. Increasingly accurate energy predictions can help utilities with peak shaving, a process where small mistakes can cost tens of thousands of dollars. [Read about my deep learning research](https://www.kmcelwee.com/load-forecasting/).
@@ -18,6 +14,10 @@ I've built multiple energy grid models with the Open Modeling Framework ([dpinne
 - [kmcelwee/WhoPaysWriters](https://github.com/kmcelwee/WhoPaysWriters): an analysis of the website [WhoPaysWriters](http://whopayswriters.com/#/results) ([read the article in the Columbia Journalism Review](https://www.cjr.org/business_of_news/where-to-pitch-data-who-pays-writers.php))
 - [kmcelwee/scrabble](https://github.com/kmcelwee/scrabble): an analysis of what Scrabble tile values make the game more fair ([read the article in Nautilus](http://nautil.us/issue/67/reboot/does-scrabble-need-to-be-fixed))
 - [Read more on my website...](https://www.kmcelwee.com/)
+
+#### 🎨 Art & Machine Learning:
+
+With the Center for Digital Humanities, I'm researching how machine learning will challenge what we value in art and studying how automation can be used as a source of inspiration. Check out my first project, [kmcelwee/mondrianify](https://github.com/kmcelwee/mondrianify) that uses edge-detection to transform images into paintings by Piet Mondrian.
 
 #### 🤖 Twitter bots
 
