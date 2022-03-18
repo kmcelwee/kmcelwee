@@ -8,6 +8,8 @@ I am optimistic about the possibilities of applied mathematics, particularly mac
 
 I've built multiple energy grid models with the Open Modeling Framework ([dpinney/omf](https://github.com/dpinney/omf)), an open-source project that—through partnerships with national labs and the Department of Energy—develops online tools for electric utilities. Partnered with the OMF, I also studied how deep learning can be used to predict energy consumption, a suprisingly under-researched field. Increasingly accurate energy predictions can help utilities with peak shaving, a process where small mistakes can cost tens of thousands of dollars. [Read about my deep learning research](https://www.kmcelwee.com/load-forecasting/).
 
+After utilities showed more interest in my load forecasting research, I partnered with a Burt County Public Power and NRECA to build a web app that automatically draws in weather data and load data every day to generate a forecast. [Check out the product we built.](https://coopforecast.com/)
+
 #### 📈 Data Journalism
 
 - [kmcelwee/fortune-100-blm-report](https://kmcelwee.github.io/fortune-100-blm-report/site/): an analysis of the Fortune 100's response on Twitter to the BLM protests in the summer of 2020
