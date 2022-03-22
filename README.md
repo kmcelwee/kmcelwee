@@ -1,6 +1,6 @@
 ### Hello! My name's Kevin 👨🏻‍💻 
 
-I am optimistic about the possibilities of applied mathematics, particularly machine learning, to inform debate and serve the public good. I currently work as a programmer at Princeton University in the [Center for Digital Humanities](https://github.com/Princeton-CDH/), helping professors and students develop their data-driven research projects. Before Princeton, I worked in the energy sector, building machine learning models that increase efficiency on the electrical grid.
+I am optimistic about the possibilities of applied mathematics, particularly machine learning, to educate, inspire, and serve the public good. I currently work as a programmer at Princeton University in the [Center for Digital Humanities](https://github.com/Princeton-CDH/), helping professors and students develop their data-driven research projects. Before Princeton, I worked in the energy sector, building machine learning models that increase efficiency on the electrical grid.
 
 ### Check out my repos that explore...
 
