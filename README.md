@@ -1,14 +1,16 @@
 ### Hello! My name's Kevin 👨🏻‍💻 
 
-I am optimistic about the possibilities of applied mathematics, particularly machine learning, to educate, inspire, and serve the public good. I currently work as a programmer at Princeton University in the [Center for Digital Humanities](https://github.com/Princeton-CDH/), helping professors and students develop their data-driven research projects. Before Princeton, I worked in the energy sector, building machine learning models that increase efficiency on the electrical grid.
+I'm moving to Boston soon, and after getting settled, I plan to start looking for my next job in August 2022!
+
+I am optimistic about the possibilities of applied mathematics, particularly machine learning, to educate, inspire, and serve the public good. I've been a machine learning and research software engineer for about four years. I just finished work as a programmer at Princeton University in the [Center for Digital Humanities](https://github.com/Princeton-CDH/), helping professors and students develop their data-driven research projects. Before Princeton, I worked in the energy sector, building machine learning models that increase efficiency on the electrical grid.
 
 ### Check out my repos that explore...
 
 #### ⚡ The Energy Sector
 
-I've built multiple energy grid models with the Open Modeling Framework ([dpinney/omf](https://github.com/dpinney/omf)), an open-source project that—through partnerships with national labs and the Department of Energy—develops online tools for electric utilities. Partnered with the OMF, I also studied how deep learning can be used to predict energy consumption, a suprisingly under-researched field. Increasingly accurate energy predictions can help utilities with peak shaving, a process where small mistakes can cost tens of thousands of dollars. [Read about my deep learning research](https://www.kmcelwee.com/load-forecasting/).
+Partnered with [rural utilities](https://www.electric.coop/), national labs, and the Department of Energy, I studied how deep learning can be used to predict energy consumption. Increasingly accurate energy predictions can help utilities save a lot of money through a process called "peak shaving." [Read about my deep learning research](https://www.kmcelwee.com/load-forecasting/).
 
-After utilities showed more interest in my load forecasting research, I partnered with a Burt County Public Power and NRECA to build a web app that automatically draws in weather data and load data every day to generate a forecast. [Check out the product we built.](https://coopforecast.com/)
+After utilities showed more interest in my research, I partnered with Burt County Public Power and NRECA to build a web app that automatically draws in weather data and load data every day to generate a forecast. [Check out the product we built.](https://coopforecast.com/)
 
 #### 📈 Data Journalism
 
@@ -17,10 +19,6 @@ After utilities showed more interest in my load forecasting research, I partnere
 - [kmcelwee/scrabble](https://github.com/kmcelwee/scrabble): an analysis of what Scrabble tile values make the game more fair ([read the article in Nautilus](http://nautil.us/issue/67/reboot/does-scrabble-need-to-be-fixed))
 - [Read more on my website...](https://www.kmcelwee.com/)
 
-#### 🎨 Art & Machine Learning:
-
-With the Center for Digital Humanities, I'm researching how machine learning will challenge what we value in art and studying how automation can be used as a source of inspiration. Check out my first project, [kmcelwee/mondrianify](https://github.com/kmcelwee/mondrianify) that uses edge-detection to transform images into paintings by Piet Mondrian.
-
 #### 🤖 Twitter bots
 
 - [kmcelwee/reddit-says-aww](https://github.com/kmcelwee/reddit-says-aww): A bot that posts the top-rated content from the r/aww subreddit to Twitter using GitHub Actions
@@ -28,4 +26,4 @@ With the Center for Digital Humanities, I'm researching how machine learning wil
 
 ### Reach out!
 
-I'm always open to helping organizations and journalists with their technical projects! Since starting my work at Princeton, I've had less time for freelance work, but I'm still doing business as Brown Analytics, LLC. I'm also actively looking for opportunities to volunteer my technical skills to non-profits supporting LGBT rights 🏳️‍🌈 
+I'd like to kick back this summer, but if there's an exciting employment opportunity you'd like to tell me about, feel free to [email me](mailto:kevinrmcelwee@gmail.com). I'm also actively looking for opportunities to volunteer my technical skills to non-profits supporting LGBT rights 🏳️‍🌈 
