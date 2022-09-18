@@ -1,8 +1,6 @@
 ### Hello! My name's Kevin 👨🏻‍💻 
 
-I'm moving to Boston soon, and after getting settled, I plan to start looking for my next job in August 2022!
-
-I am optimistic about the possibilities of applied mathematics, particularly machine learning, to educate, inspire, and serve the public good. I've been a machine learning and research software engineer for about four years. I just finished work as a programmer at Princeton University in the [Center for Digital Humanities](https://github.com/Princeton-CDH/), helping professors and students develop their data-driven research projects. Before Princeton, I worked in the energy sector, building machine learning models that increase efficiency on the electrical grid.
+I earned a degree in Music at Princeton in 2018 and soon after discovered programming through data journalism. For two years, I worked for electric utilities, buiding models that increase efficiency on the grid; then for two years, I returned to Princeton as a programmer on staff, writing software for professors and students. I moved to Boston in 2022 and now work at AWS, helping build a cloud-based file system called FSx.
 
 ### Check out my repos that explore...
 
@@ -23,7 +21,3 @@ After utilities showed more interest in my research, I partnered with Burt Count
 
 - [kmcelwee/reddit-says-aww](https://github.com/kmcelwee/reddit-says-aww): A bot that posts the top-rated content from the r/aww subreddit to Twitter using GitHub Actions
 - [kmcelwee/mondrianify-twitter](https://github.com/kmcelwee/mondrianify-twitter): A wrapper for my [mondrianify](https://github.com/kmcelwee/mondrianify) pipeline.
-
-### Reach out!
-
-I'd like to kick back this summer, but if there's an exciting employment opportunity you'd like to tell me about, feel free to [email me](mailto:kevinrmcelwee@gmail.com). I'm also actively looking for opportunities to volunteer my technical skills to non-profits supporting LGBT rights 🏳️‍🌈 
